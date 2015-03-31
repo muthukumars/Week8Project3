@@ -1,0 +1,31 @@
+---
+title: "Week8-AcademyAward"
+author: "MuthukumarSrinivasan & RajagopalSrinivasan"
+date: "Tuesday, March 31, 2015"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+require(ggplot2)
+library(ggplot2)
+
+week8academy<-read.csv('c:/temp/week8AcademyAwards.csv',header=TRUE)
+
+str(week8academy)
+
+summary(week8academy)
+
+
+```
+
+```{r}
+library(RPostgreSQL)
+con=dbConnect(PostgreSQL(),user="postgres",password="jinguds123",dbname="academyAwards")
+out=dbGetQuery(con,'select * from "awardCategory"')
+out
+
+```

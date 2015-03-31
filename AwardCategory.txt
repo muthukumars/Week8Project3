@@ -1,0 +1,23 @@
+2010      	AActor - Supporting Role                                                                            	111
+2010      	Actress Supporting Role                                                                             	112
+2010      	Animated Featured Film                                                                              	113
+2010      	Art Direction                                                                                       	114
+2010      	Cinematography                                                                                      	115
+2010      	Costume Design                                                                                      	116
+2010      	Directing                                                                                           	117
+2010      	Documentary (Feature)                                                                               	118
+2010      	Documentary (Short Subject)                                                                         	119
+2010      	Film Editing                                                                                        	120
+2010      	Foreign Language Film                                                                               	121
+2010      	Makeup                                                                                              	122
+2010      	Music(Scoring)                                                                                      	123
+2010      	Music(Song)                                                                                         	124
+2010      	Best Picture                                                                                        	125
+2010      	ShortFilm(Animated)                                                                                 	126
+2010      	ShortFile(live Action)                                                                              	127
+2010      	Sound                                                                                               	128
+2010      	Sound Editing                                                                                       	129
+2010      	Visual Effects                                                                                      	130
+2010      	Writing                                                                                             	131
+2010      	Actor Leading Role                                                                                  	132
+2010      	Actress-Leading Role                                                                                	133
